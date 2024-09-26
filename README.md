@@ -64,7 +64,7 @@ Once the entire workflow completes, the data is available in Amazon Redshift for
 The interactive dashboard created in Amazon QuickSight provides key insights into COVID-19 trends, such as:
 
 - **Rate of confirmed cases over time**  
-  ![Rate of Confirmed Cases Over Time](confirmed_cases_trend.png)
+  ![Rate of Confirmed Cases Over Time](v1.png)
 
 
 ## Conclusion
